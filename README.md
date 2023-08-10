@@ -1,1 +1,1 @@
-# Sanbercode-JavascriptIntodruction
+# Sanbercode - Javascript Intodruction
