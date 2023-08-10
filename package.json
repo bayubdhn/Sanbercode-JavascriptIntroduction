@@ -1,0 +1,19 @@
+{
+  "name": "javascriptintroduction",
+  "version": "1.0.0",
+  "description": "Sanbercode - Tugas Pekanan 3 | Javascript Introduction",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayubdhn/Sanbercode-JavascriptIntroduction.git"
+  },
+  "author": "Bayu Dwi Herdianto Nugroho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayubdhn/Sanbercode-JavascriptIntroduction/issues"
+  },
+  "homepage": "https://github.com/bayubdhn/Sanbercode-JavascriptIntroduction#readme"
+}
